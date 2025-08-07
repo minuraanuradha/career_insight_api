@@ -1,0 +1,151 @@
+user_id,skills,education,current_role,experience_years,company_comment,target_role
+001,"Pandas, SQL, Deep Learning, R, Data Cleaning",BSc CS,Business Analyst,2,Strong analytical and problem-solving skills,Data Scientist
+002,"Data Cleaning, R, Pandas, Python, Deep Learning",MSc CS,Data Analyst,3,Highly self-driven and adapts quickly,Data Scientist
+003,"Python, Data Cleaning, Pandas, SQL, R",BSc CS,Business Analyst,2,Creative and detail-oriented,Data Scientist
+004,"Data Cleaning, Machine Learning, Python, R, Deep Learning",BTech Computer,Junior Data Scientist,4,Good collaboration and communication skills,Data Scientist
+005,"Statistics, Pandas, Machine Learning, Python, Deep Learning",MSc Data Science,Junior Data Scientist,2,Creative and detail-oriented,Data Scientist
+006,"Statistics, Deep Learning, Pandas, Machine Learning, R",MSc CS,Business Analyst,1,Shows leadership potential,Data Scientist
+007,"Data Cleaning, R, Deep Learning, Python, Pandas",MSc Data Science,Junior Data Scientist,6,Excellent technical understanding and quick learner,Data Scientist
+008,"Machine Learning, Deep Learning, Data Cleaning, Python, SQL",BTech Computer,Junior Data Scientist,2,Creative and detail-oriented,Data Scientist
+009,"SQL, Deep Learning, Data Cleaning, Pandas, Python",BSc CS,Business Analyst,3,Creative and detail-oriented,Data Scientist
+010,"Python, Deep Learning, Pandas, Statistics, R",MSc Data Science,Junior Data Scientist,2,Good collaboration and communication skills,Data Scientist
+011,"R, Deep Learning, Pandas, Statistics, SQL",BTech Computer,Data Analyst,4,Good collaboration and communication skills,Data Scientist
+012,"Deep Learning, Python, R, Machine Learning, Pandas",BTech Computer,Junior Data Scientist,4,Strong in development and version control,Data Scientist
+013,"R, Deep Learning, Pandas, Python, Statistics",BSc CS,Junior Data Scientist,1,Strong analytical and problem-solving skills,Data Scientist
+014,"Statistics, R, Machine Learning, Pandas, Data Cleaning",BTech Computer,Data Analyst,3,Strong in development and version control,Data Scientist
+015,"Machine Learning, Deep Learning, Data Cleaning, SQL, R",BTech Computer,Business Analyst,1,Good collaboration and communication skills,Data Scientist
+016,"R, Data Cleaning, Deep Learning, Machine Learning, Statistics",MSc Data Science,Business Analyst,5,Creative and detail-oriented,Data Scientist
+017,"Deep Learning, SQL, Statistics, Python, Data Cleaning",BTech Computer,Junior Data Scientist,4,Good collaboration and communication skills,Data Scientist
+018,"Deep Learning, SQL, Statistics, Machine Learning, Data Cleaning",BSc CS,Junior Data Scientist,2,Strong analytical and problem-solving skills,Data Scientist
+019,"SQL, Data Cleaning, R, Statistics, Python",MSc CS,Business Analyst,3,Highly self-driven and adapts quickly,Data Scientist
+020,"Python, Data Cleaning, Machine Learning, Deep Learning, Statistics",MSc CS,Business Analyst,5,Shows leadership potential,Data Scientist
+021,"Machine Learning, Pandas, R, Data Cleaning, Deep Learning",BSc CS,Junior Data Scientist,2,Excellent technical understanding and quick learner,Data Scientist
+022,"Machine Learning, Pandas, SQL, Statistics, Deep Learning",MSc Data Science,Data Analyst,6,Highly self-driven and adapts quickly,Data Scientist
+023,"Data Cleaning, Machine Learning, Deep Learning, Python, R",MSc CS,Data Analyst,2,Strong analytical and problem-solving skills,Data Scientist
+024,"R, Python, SQL, Deep Learning, Pandas",MSc CS,Data Analyst,3,Good collaboration and communication skills,Data Scientist
+025,"Pandas, Data Cleaning, Statistics, R, Machine Learning",MSc CS,Business Analyst,5,Creative and detail-oriented,Data Scientist
+026,"Machine Learning, Deep Learning, Python, R, Pandas",MSc Data Science,Data Analyst,5,Strong in development and version control,Data Scientist
+027,"Machine Learning, Deep Learning, Statistics, Data Cleaning, SQL",BTech Computer,Data Analyst,6,Creative and detail-oriented,Data Scientist
+028,"SQL, Deep Learning, R, Pandas, Statistics",MSc CS,Business Analyst,5,Strong in development and version control,Data Scientist
+029,"R, Python, Pandas, Statistics, Deep Learning",BTech Computer,Business Analyst,3,Creative and detail-oriented,Data Scientist
+030,"Pandas, Deep Learning, Data Cleaning, SQL, Python",BTech Computer,Business Analyst,6,Creative and detail-oriented,Data Scientist
+031,"Python, Statistics, SQL, R, Machine Learning",BSc CS,Data Analyst,5,Strong analytical and problem-solving skills,Data Scientist
+032,"Statistics, Python, Data Cleaning, Machine Learning, R",BSc CS,Data Analyst,2,Good collaboration and communication skills,Data Scientist
+033,"Deep Learning, Machine Learning, Statistics, SQL, Pandas",MSc Data Science,Data Analyst,1,Strong analytical and problem-solving skills,Data Scientist
+034,"Statistics, Data Cleaning, Machine Learning, Deep Learning, SQL",BTech Computer,Data Analyst,4,Good collaboration and communication skills,Data Scientist
+035,"R, Data Cleaning, Deep Learning, Machine Learning, SQL",BTech Computer,Junior Data Scientist,4,Shows leadership potential,Data Scientist
+036,"SQL, Pandas, Machine Learning, Statistics, Data Cleaning",MSc Data Science,Junior Data Scientist,3,Good collaboration and communication skills,Data Scientist
+037,"Python, Data Cleaning, R, Pandas, Machine Learning",BTech Computer,Junior Data Scientist,6,Strong in development and version control,Data Scientist
+038,"SQL, Statistics, Machine Learning, Python, Data Cleaning",BSc CS,Junior Data Scientist,4,Highly self-driven and adapts quickly,Data Scientist
+039,"Pandas, SQL, Machine Learning, Deep Learning, R",BSc CS,Business Analyst,6,Highly self-driven and adapts quickly,Data Scientist
+040,"Pandas, Data Cleaning, R, Machine Learning, Statistics",BTech Computer,Business Analyst,7,Good collaboration and communication skills,Data Scientist
+041,"Data Cleaning, Machine Learning, R, Deep Learning, Python",BSc CS,Junior Data Scientist,5,Creative and detail-oriented,Data Scientist
+042,"Pandas, Deep Learning, Data Cleaning, R, SQL",MSc CS,Junior Data Scientist,2,Creative and detail-oriented,Data Scientist
+043,"Machine Learning, Deep Learning, R, SQL, Pandas",BSc CS,Business Analyst,1,Strong in development and version control,Data Scientist
+044,"SQL, R, Deep Learning, Pandas, Statistics",MSc CS,Data Analyst,6,Excellent technical understanding and quick learner,Data Scientist
+045,"Deep Learning, R, Python, Statistics, Data Cleaning",MSc CS,Business Analyst,2,Shows leadership potential,Data Scientist
+046,"Statistics, Data Cleaning, SQL, R, Python",MSc Data Science,Business Analyst,2,Shows leadership potential,Data Scientist
+047,"Pandas, R, Machine Learning, Python, Data Cleaning",MSc Data Science,Business Analyst,6,Strong in development and version control,Data Scientist
+048,"SQL, Statistics, Deep Learning, R, Python",MSc CS,Junior Data Scientist,7,Strong in development and version control,Data Scientist
+049,"Python, Statistics, SQL, Deep Learning, Data Cleaning",MSc CS,Junior Data Scientist,6,Shows leadership potential,Data Scientist
+050,"SQL, Statistics, Data Cleaning, R, Python",BSc CS,Business Analyst,5,Highly self-driven and adapts quickly,Data Scientist
+051,"UI/UX, HTML, Responsive Design, JavaScript, Git",BTech Computer,Junior Frontend Dev,5,Highly self-driven and adapts quickly,Frontend Developer
+052,"HTML, JavaScript, UI/UX, TypeScript, Responsive Design",MSc Data Science,Junior Frontend Dev,1,Strong analytical and problem-solving skills,Frontend Developer
+053,"Responsive Design, CSS, JavaScript, HTML, TypeScript",MSc Data Science,Junior Frontend Dev,7,Strong analytical and problem-solving skills,Frontend Developer
+054,"UI/UX, Git, CSS, Responsive Design, JavaScript",MSc CS,Junior Frontend Dev,4,Strong in development and version control,Frontend Developer
+055,"UI/UX, Responsive Design, CSS, JavaScript, HTML",BSc CS,Web Designer,7,Shows leadership potential,Frontend Developer
+056,"JavaScript, CSS, React, Git, Responsive Design",MSc CS,Web Designer,6,Strong in development and version control,Frontend Developer
+057,"HTML, JavaScript, CSS, React, TypeScript",MSc CS,Junior Frontend Dev,5,Strong in development and version control,Frontend Developer
+058,"UI/UX, Git, Responsive Design, CSS, TypeScript",MSc Data Science,Web Designer,1,Highly self-driven and adapts quickly,Frontend Developer
+059,"HTML, CSS, Git, TypeScript, JavaScript",BTech Computer,UI Developer,2,Strong in development and version control,Frontend Developer
+060,"React, CSS, TypeScript, JavaScript, UI/UX",MSc Data Science,Junior Frontend Dev,5,Shows leadership potential,Frontend Developer
+061,"HTML, Responsive Design, TypeScript, React, Git",MSc CS,Junior Frontend Dev,6,Strong analytical and problem-solving skills,Frontend Developer
+062,"CSS, React, HTML, UI/UX, Git",BTech Computer,Junior Frontend Dev,1,Good collaboration and communication skills,Frontend Developer
+063,"HTML, React, TypeScript, CSS, JavaScript",MSc CS,Web Designer,1,Highly self-driven and adapts quickly,Frontend Developer
+064,"Git, TypeScript, JavaScript, Responsive Design, UI/UX",MSc Data Science,Web Designer,2,Excellent technical understanding and quick learner,Frontend Developer
+065,"HTML, Git, JavaScript, CSS, React",MSc Data Science,Web Designer,3,Strong in development and version control,Frontend Developer
+066,"HTML, Git, UI/UX, TypeScript, JavaScript",BTech Computer,Web Designer,2,Shows leadership potential,Frontend Developer
+067,"JavaScript, React, TypeScript, UI/UX, Git",MSc Data Science,UI Developer,3,Strong analytical and problem-solving skills,Frontend Developer
+068,"TypeScript, React, JavaScript, CSS, UI/UX",MSc CS,Web Designer,4,Strong in development and version control,Frontend Developer
+069,"UI/UX, HTML, React, CSS, Responsive Design",BSc CS,Junior Frontend Dev,3,Creative and detail-oriented,Frontend Developer
+070,"TypeScript, UI/UX, HTML, Git, React",BSc CS,Web Designer,4,Excellent technical understanding and quick learner,Frontend Developer
+071,"HTML, CSS, Responsive Design, JavaScript, TypeScript",MSc Data Science,Junior Frontend Dev,2,Creative and detail-oriented,Frontend Developer
+072,"JavaScript, HTML, React, TypeScript, UI/UX",BSc CS,Junior Frontend Dev,1,Excellent technical understanding and quick learner,Frontend Developer
+073,"UI/UX, TypeScript, Git, JavaScript, Responsive Design",MSc CS,Web Designer,5,Good collaboration and communication skills,Frontend Developer
+074,"CSS, UI/UX, JavaScript, TypeScript, React",BSc CS,Web Designer,5,Strong in development and version control,Frontend Developer
+075,"UI/UX, JavaScript, HTML, TypeScript, React",MSc Data Science,Junior Frontend Dev,4,Strong analytical and problem-solving skills,Frontend Developer
+076,"UI/UX, Responsive Design, HTML, JavaScript, CSS",BSc CS,UI Developer,1,Excellent technical understanding and quick learner,Frontend Developer
+077,"TypeScript, UI/UX, Responsive Design, React, JavaScript",MSc CS,Junior Frontend Dev,1,Creative and detail-oriented,Frontend Developer
+078,"TypeScript, Responsive Design, CSS, UI/UX, React",BTech Computer,Junior Frontend Dev,6,Creative and detail-oriented,Frontend Developer
+079,"Git, TypeScript, Responsive Design, CSS, React",MSc Data Science,UI Developer,6,Shows leadership potential,Frontend Developer
+080,"Responsive Design, TypeScript, React, HTML, UI/UX",MSc CS,UI Developer,1,Excellent technical understanding and quick learner,Frontend Developer
+081,"React, UI/UX, Git, HTML, TypeScript",BTech Computer,Web Designer,1,Excellent technical understanding and quick learner,Frontend Developer
+082,"UI/UX, CSS, TypeScript, Responsive Design, React",MSc Data Science,Junior Frontend Dev,1,Good collaboration and communication skills,Frontend Developer
+083,"CSS, HTML, Responsive Design, UI/UX, Git",MSc CS,Web Designer,1,Creative and detail-oriented,Frontend Developer
+084,"Git, TypeScript, CSS, Responsive Design, React",BSc CS,UI Developer,6,Strong analytical and problem-solving skills,Frontend Developer
+085,"Responsive Design, CSS, TypeScript, React, JavaScript",MSc CS,UI Developer,2,Creative and detail-oriented,Frontend Developer
+086,"React, UI/UX, TypeScript, Responsive Design, CSS",MSc Data Science,UI Developer,6,Shows leadership potential,Frontend Developer
+087,"UI/UX, TypeScript, Responsive Design, React, Git",BTech Computer,Junior Frontend Dev,2,Strong in development and version control,Frontend Developer
+088,"UI/UX, Git, TypeScript, JavaScript, CSS",MSc Data Science,Junior Frontend Dev,2,Strong analytical and problem-solving skills,Frontend Developer
+089,"Git, JavaScript, UI/UX, TypeScript, HTML",MSc CS,Junior Frontend Dev,7,Excellent technical understanding and quick learner,Frontend Developer
+090,"Git, TypeScript, CSS, Responsive Design, HTML",BTech Computer,Web Designer,7,Shows leadership potential,Frontend Developer
+091,"TypeScript, CSS, JavaScript, Git, UI/UX",MSc Data Science,Junior Frontend Dev,4,Shows leadership potential,Frontend Developer
+092,"Git, HTML, UI/UX, Responsive Design, TypeScript",BTech Computer,Web Designer,2,Excellent technical understanding and quick learner,Frontend Developer
+093,"Git, UI/UX, HTML, TypeScript, React",BSc CS,UI Developer,2,Good collaboration and communication skills,Frontend Developer
+094,"CSS, Git, Responsive Design, UI/UX, HTML",MSc CS,Junior Frontend Dev,4,Shows leadership potential,Frontend Developer
+095,"React, Git, TypeScript, CSS, Responsive Design",BSc CS,Junior Frontend Dev,6,Highly self-driven and adapts quickly,Frontend Developer
+096,"CSS, UI/UX, Git, React, Responsive Design",MSc Data Science,Web Designer,3,Strong analytical and problem-solving skills,Frontend Developer
+097,"Git, CSS, TypeScript, UI/UX, JavaScript",MSc Data Science,Web Designer,3,Strong analytical and problem-solving skills,Frontend Developer
+098,"Responsive Design, HTML, TypeScript, CSS, JavaScript",BTech Computer,UI Developer,5,Excellent technical understanding and quick learner,Frontend Developer
+099,"Git, UI/UX, CSS, TypeScript, JavaScript",MSc Data Science,Junior Frontend Dev,2,Highly self-driven and adapts quickly,Frontend Developer
+100,"React, Responsive Design, Git, JavaScript, UI/UX",MSc Data Science,Junior Frontend Dev,2,Highly self-driven and adapts quickly,Frontend Developer
+101,"Node.js, Express, REST APIs, MongoDB, Git",MSc Data Science,Web Developer,4,Strong in development and version control,Fullstack Developer
+102,"Git, JavaScript, SQL, Node.js, React",BTech Computer,Backend Developer,7,Strong in development and version control,Fullstack Developer
+103,"Node.js, React, REST APIs, JavaScript, SQL",MSc Data Science,Junior Fullstack Dev,7,Excellent technical understanding and quick learner,Fullstack Developer
+104,"Git, JavaScript, MongoDB, Node.js, REST APIs",BSc CS,Backend Developer,1,Shows leadership potential,Fullstack Developer
+105,"React, Express, Git, MongoDB, Node.js",BTech Computer,Web Developer,3,Strong analytical and problem-solving skills,Fullstack Developer
+106,"JavaScript, Node.js, MongoDB, Git, SQL",MSc Data Science,Web Developer,4,Shows leadership potential,Fullstack Developer
+107,"REST APIs, SQL, React, Express, JavaScript",BTech Computer,Junior Fullstack Dev,7,Good collaboration and communication skills,Fullstack Developer
+108,"MongoDB, JavaScript, Express, SQL, React",MSc CS,Web Developer,1,Creative and detail-oriented,Fullstack Developer
+109,"SQL, Node.js, Git, Express, MongoDB",BTech Computer,Junior Fullstack Dev,6,Creative and detail-oriented,Fullstack Developer
+110,"React, JavaScript, REST APIs, Express, MongoDB",BTech Computer,Web Developer,2,Strong in development and version control,Fullstack Developer
+111,"JavaScript, REST APIs, MongoDB, Node.js, Git",BSc CS,Junior Fullstack Dev,1,Highly self-driven and adapts quickly,Fullstack Developer
+112,"REST APIs, React, JavaScript, SQL, MongoDB",MSc CS,Web Developer,7,Highly self-driven and adapts quickly,Fullstack Developer
+113,"JavaScript, SQL, Express, React, MongoDB",BTech Computer,Junior Fullstack Dev,5,Shows leadership potential,Fullstack Developer
+114,"MongoDB, JavaScript, React, Node.js, Express",MSc CS,Junior Fullstack Dev,2,Strong analytical and problem-solving skills,Fullstack Developer
+115,"React, Express, REST APIs, JavaScript, Node.js",BTech Computer,Backend Developer,7,Excellent technical understanding and quick learner,Fullstack Developer
+116,"Node.js, React, SQL, Git, JavaScript",BSc CS,Junior Fullstack Dev,2,Creative and detail-oriented,Fullstack Developer
+117,"SQL, REST APIs, Git, React, MongoDB",MSc Data Science,Junior Fullstack Dev,1,Creative and detail-oriented,Fullstack Developer
+118,"MongoDB, SQL, REST APIs, Node.js, Express",BSc CS,Junior Fullstack Dev,7,Strong analytical and problem-solving skills,Fullstack Developer
+119,"React, REST APIs, SQL, MongoDB, Express",MSc CS,Web Developer,5,Good collaboration and communication skills,Fullstack Developer
+120,"Express, JavaScript, SQL, Git, MongoDB",BTech Computer,Web Developer,6,Strong analytical and problem-solving skills,Fullstack Developer
+121,"MongoDB, JavaScript, Express, Git, SQL",MSc CS,Junior Fullstack Dev,3,Excellent technical understanding and quick learner,Fullstack Developer
+122,"SQL, React, Node.js, REST APIs, Express",BTech Computer,Backend Developer,3,Excellent technical understanding and quick learner,Fullstack Developer
+123,"Git, Express, JavaScript, MongoDB, REST APIs",BTech Computer,Backend Developer,1,Strong analytical and problem-solving skills,Fullstack Developer
+124,"React, Express, JavaScript, MongoDB, SQL",BSc CS,Backend Developer,2,Shows leadership potential,Fullstack Developer
+125,"Git, Express, SQL, JavaScript, Node.js",MSc CS,Web Developer,3,Highly self-driven and adapts quickly,Fullstack Developer
+126,"SQL, React, REST APIs, JavaScript, MongoDB",BTech Computer,Backend Developer,5,Highly self-driven and adapts quickly,Fullstack Developer
+127,"Node.js, MongoDB, Express, Git, JavaScript",MSc Data Science,Web Developer,6,Good collaboration and communication skills,Fullstack Developer
+128,"REST APIs, Express, JavaScript, React, SQL",BSc CS,Junior Fullstack Dev,6,Excellent technical understanding and quick learner,Fullstack Developer
+129,"Express, React, Node.js, REST APIs, Git",BSc CS,Backend Developer,7,Good collaboration and communication skills,Fullstack Developer
+130,"REST APIs, Express, Node.js, Git, SQL",MSc Data Science,Web Developer,2,Shows leadership potential,Fullstack Developer
+131,"Express, React, Git, REST APIs, JavaScript",MSc CS,Backend Developer,6,Good collaboration and communication skills,Fullstack Developer
+132,"JavaScript, Node.js, MongoDB, Express, React",BTech Computer,Junior Fullstack Dev,7,Good collaboration and communication skills,Fullstack Developer
+133,"Git, REST APIs, JavaScript, Node.js, React",BSc CS,Web Developer,6,Good collaboration and communication skills,Fullstack Developer
+134,"Express, REST APIs, JavaScript, React, Node.js",BTech Computer,Junior Fullstack Dev,7,Strong in development and version control,Fullstack Developer
+135,"Express, MongoDB, SQL, React, REST APIs",BTech Computer,Web Developer,5,Shows leadership potential,Fullstack Developer
+136,"Git, JavaScript, React, MongoDB, Node.js",BTech Computer,Web Developer,3,Shows leadership potential,Fullstack Developer
+137,"REST APIs, Git, JavaScript, Node.js, SQL",BSc CS,Backend Developer,5,Shows leadership potential,Fullstack Developer
+138,"MongoDB, SQL, Node.js, React, REST APIs",BSc CS,Web Developer,7,Highly self-driven and adapts quickly,Fullstack Developer
+139,"Git, SQL, MongoDB, JavaScript, React",MSc CS,Backend Developer,6,Excellent technical understanding and quick learner,Fullstack Developer
+140,"SQL, Express, REST APIs, Node.js, JavaScript",BTech Computer,Web Developer,3,Excellent technical understanding and quick learner,Fullstack Developer
+141,"Node.js, React, Git, Express, JavaScript",MSc Data Science,Backend Developer,1,Good collaboration and communication skills,Fullstack Developer
+142,"Express, JavaScript, React, Git, Node.js",BSc CS,Junior Fullstack Dev,1,Strong in development and version control,Fullstack Developer
+143,"React, Node.js, SQL, REST APIs, MongoDB",MSc Data Science,Backend Developer,2,Strong analytical and problem-solving skills,Fullstack Developer
+144,"Git, React, SQL, MongoDB, JavaScript",BSc CS,Junior Fullstack Dev,3,Good collaboration and communication skills,Fullstack Developer
+145,"Node.js, JavaScript, React, Express, REST APIs",BSc CS,Junior Fullstack Dev,7,Excellent technical understanding and quick learner,Fullstack Developer
+146,"React, JavaScript, MongoDB, Git, Node.js",MSc CS,Backend Developer,6,Strong in development and version control,Fullstack Developer
+147,"MongoDB, React, REST APIs, Git, SQL",BTech Computer,Junior Fullstack Dev,7,Strong analytical and problem-solving skills,Fullstack Developer
+148,"SQL, Git, JavaScript, React, Node.js",MSc Data Science,Backend Developer,3,Excellent technical understanding and quick learner,Fullstack Developer
+149,"SQL, React, Git, JavaScript, Express",BSc CS,Backend Developer,4,Shows leadership potential,Fullstack Developer
+150,"MongoDB, SQL, JavaScript, Git, Node.js",MSc CS,Junior Fullstack Dev,7,Good collaboration and communication skills,Fullstack Developer

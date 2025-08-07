@@ -2,6 +2,8 @@
 from flask import Flask, request, jsonify
 import joblib
 import pandas as pd
+import os  # ✅ Add this line
+
 
 # Load models and encoders
 clf = joblib.load('model/next_role_model.pkl')
