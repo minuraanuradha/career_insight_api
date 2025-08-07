@@ -11,7 +11,8 @@ current_role_encoder = joblib.load('model/current_role_encoder.pkl')
 target_role_encoder = joblib.load('model/target_role_encoder.pkl')
 
 # Load dataset for career path and peer benchmarking
-df = pd.read_csv('balanced_career_insight_dataset.csv')
+# df = pd.read_csv('balanced_career_insight_dataset.csv')
+df = pd.read_csv(os.path.join(os.path.dirname(__file__), 'balanced_career_insight_dataset.csv'))
 df['skills'] = df['skills'].apply(lambda x: [s.strip() for s in x.split(',')])
 
 # Skill Requirements Auto-generation
