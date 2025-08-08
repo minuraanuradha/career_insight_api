@@ -1,4 +1,3 @@
-# app.py
 from flask import Flask, request, jsonify
 import joblib
 import pandas as pd
@@ -66,6 +65,28 @@ def analyze_skill_gap(user_skills, target_role):
     required_skills_set = set(required_skills)
     return list(required_skills_set & user_skills_set), list(required_skills_set - user_skills_set)
 
+# Format career path for display
+def format_career_path(career_path_data):
+    if not career_path_data:
+        return "No clear career progression path identified."
+    
+    path_lines = []
+    for i, step in enumerate(career_path_data, 1):
+        path_lines.append(f"{i}. {step['target_role']} ({step['count']} transitions)")
+    
+    return "\n".join(path_lines)
+
+# Format peer data for display
+def format_peer_data(peer_data):
+    if not peer_data:
+        return "No similar peers found."
+    
+    peer_lines = ["user_id | current_role"]
+    for peer in peer_data[:5]:  # Limit to 5 peers
+        peer_lines.append(f"{peer['user_id']} | {peer['current_role']}")
+    
+    return "\n".join(peer_lines)
+
 # Flask App
 app = Flask(__name__)
 
@@ -74,10 +95,15 @@ def generate_insights():
     data = request.json
 
     try:
-        user_skills = data['skills']
-        user_edu = data['education']
-        user_role = data['current_role']
-        user_exp = data['experience_years']
+        # Extract input data
+        user_skills = data['data'][0]  # Skills as comma-separated string
+        user_edu = data['data'][1]     # Education level
+        user_role = data['data'][2]    # Current role
+        user_exp = data['data'][3]     # Years of experience
+        
+        # Parse skills from comma-separated string
+        if isinstance(user_skills, str):
+            user_skills = [skill.strip() for skill in user_skills.split(',')]
 
         # Encode features
         user_skills_vec = pd.DataFrame(mlb.transform([user_skills]), columns=mlb.classes_)
@@ -102,12 +128,16 @@ def generate_insights():
         # 4️⃣ Peer Benchmarking
         peer_matches = find_similar_peers(user_features)
 
+        # Format the response as a single string
+        response_text = f"🎯 Predicted Next Role: {predicted_role}\n\n"
+        response_text += f"✅ Matched Skills: {', '.join(matched_skills) if matched_skills else 'None'}\n\n"
+        response_text += f"❌ Missing Skills: {', '.join(missing_skills) if missing_skills else 'None'}\n\n"
+        response_text += f"📈 Career Path:\n{format_career_path(career_path)}\n\n"
+        response_text += f"👥 Peers:\n{format_peer_data(peer_matches)}"
+
+        # Return in the expected format
         return jsonify({
-            "suggested_role": predicted_role,
-            "skills_to_learn": missing_skills,
-            "skills_matched": matched_skills,
-            "career_path": career_path,
-            "peer_benchmarking": peer_matches
+            "data": [response_text]
         })
     except Exception as e:
         return jsonify({"error": str(e)}), 500
